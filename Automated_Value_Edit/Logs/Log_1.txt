@@ -1,0 +1,772 @@
+========== Processing Start ==========
+========== SET 1 ==========
+Artillery Unit found at line 1063
+Weapon: WeaponDescriptor_2S1_Gvozdika_SOV
+Ammunitions for WeaponDescriptor_2S1_Gvozdika_SOV: ['Ammo_Howz_Canon_2A18_Howitzer_122mm']
+Modifying ammunition: Ammo_Howz_Canon_2A18_Howitzer_122mm
+Found the start of Ammo_Howz_Canon_2A18_Howitzer_122mm block at line 27422
+  -> Ammo_Howz_Canon_2A18_Howitzer_122mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_2A18_Howitzer_122mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_2A18_Howitzer_122mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_2A18_Howitzer_122mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_2A18_Howitzer_122mm at line 27468
+========== SET 2 ==========
+Artillery Unit found at line 1325
+Weapon: WeaponDescriptor_2S23_Nona_SVK_SOV
+Ammunitions for WeaponDescriptor_2S23_Nona_SVK_SOV: ['Ammo_Howz_Canon_2A60_Howitzer_120mm']
+Modifying ammunition: Ammo_Howz_Canon_2A60_Howitzer_120mm
+Found the start of Ammo_Howz_Canon_2A60_Howitzer_120mm block at line 28422
+  -> Ammo_Howz_Canon_2A60_Howitzer_120mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_2A60_Howitzer_120mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_2A60_Howitzer_120mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_2A60_Howitzer_120mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_2A60_Howitzer_120mm at line 28468
+========== SET 3 ==========
+Artillery Unit found at line 1588
+Weapon: WeaponDescriptor_2S3M1_Akatsiya_SOV
+Ammunitions for WeaponDescriptor_2S3M1_Akatsiya_SOV: ['Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided']
+Modifying ammunition: Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided
+Found the start of Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided block at line 30034
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided: RadiusSplashPhysicalDamages modified from 228.0 to 342.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided: PhysicalDamages modified from 342.0 to 513.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided: RadiusSplashSuppressDamages modified from 350.0 to 525.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided: SuppressDamages modified from 525.0 to 787.5
+Completed processing block for Ammo_Howz_Canon_D22_Howitzer_152mm_late_guided at line 30080
+========== SET 4 ==========
+Artillery Unit found at line 1850
+Weapon: WeaponDescriptor_2S3M_Akatsiya_SOV
+Ammunitions for WeaponDescriptor_2S3M_Akatsiya_SOV: ['Ammo_Howz_Canon_D22_Howitzer_152mm_late']
+Modifying ammunition: Ammo_Howz_Canon_D22_Howitzer_152mm_late
+Found the start of Ammo_Howz_Canon_D22_Howitzer_152mm_late block at line 29880
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late: RadiusSplashPhysicalDamages modified from 228.0 to 342.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late: PhysicalDamages modified from 342.0 to 513.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late: RadiusSplashSuppressDamages modified from 350.0 to 525.0
+  -> Ammo_Howz_Canon_D22_Howitzer_152mm_late: SuppressDamages modified from 525.0 to 787.5
+Completed processing block for Ammo_Howz_Canon_D22_Howitzer_152mm_late at line 29926
+========== SET 5 ==========
+Artillery Unit found at line 2374
+Weapon: WeaponDescriptor_2S5_GiatsintS_SOV
+Ammunitions for WeaponDescriptor_2S5_GiatsintS_SOV: ['Ammo_Howz_Canon_2A36_SP_152mm']
+Modifying ammunition: Ammo_Howz_Canon_2A36_SP_152mm
+Found the start of Ammo_Howz_Canon_2A36_SP_152mm block at line 27576
+  -> Ammo_Howz_Canon_2A36_SP_152mm: RadiusSplashPhysicalDamages modified from 228.0 to 342.0
+  -> Ammo_Howz_Canon_2A36_SP_152mm: PhysicalDamages modified from 342.0 to 513.0
+  -> Ammo_Howz_Canon_2A36_SP_152mm: RadiusSplashSuppressDamages modified from 350.0 to 525.0
+  -> Ammo_Howz_Canon_2A36_SP_152mm: SuppressDamages modified from 525.0 to 787.5
+Completed processing block for Ammo_Howz_Canon_2A36_SP_152mm at line 27622
+========== SET 6 ==========
+Artillery Unit found at line 2635
+Weapon: WeaponDescriptor_2S7M_Malka_SOV
+Ammunitions for WeaponDescriptor_2S7M_Malka_SOV: ['Ammo_Howz_Canon_2A44_Howitzer_203mm_late']
+Modifying ammunition: Ammo_Howz_Canon_2A44_Howitzer_203mm_late
+Found the start of Ammo_Howz_Canon_2A44_Howitzer_203mm_late block at line 28114
+  -> Ammo_Howz_Canon_2A44_Howitzer_203mm_late: RadiusSplashPhysicalDamages modified from 304.0 to 456.0
+  -> Ammo_Howz_Canon_2A44_Howitzer_203mm_late: PhysicalDamages modified from 456.0 to 684.0
+  -> Ammo_Howz_Canon_2A44_Howitzer_203mm_late: RadiusSplashSuppressDamages modified from 467.0 to 700.5
+  -> Ammo_Howz_Canon_2A44_Howitzer_203mm_late: SuppressDamages modified from 700.5 to 1050.75
+Completed processing block for Ammo_Howz_Canon_2A44_Howitzer_203mm_late at line 28160
+========== SET 7 ==========
+Artillery Unit found at line 2897
+Weapon: WeaponDescriptor_2S9_Nona_SOV
+Ammunitions for WeaponDescriptor_2S9_Nona_SOV: ['Ammo_Howz_Canon_2A51_Howitzer_120mm']
+Modifying ammunition: Ammo_Howz_Canon_2A51_Howitzer_120mm
+Found the start of Ammo_Howz_Canon_2A51_Howitzer_120mm block at line 28268
+  -> Ammo_Howz_Canon_2A51_Howitzer_120mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_2A51_Howitzer_120mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_2A51_Howitzer_120mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_2A51_Howitzer_120mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_2A51_Howitzer_120mm at line 28314
+========== SET 8 ==========
+Artillery Unit found at line 3160
+Weapon: WeaponDescriptor_81mm_mortar_Aero_US
+Ammunitions for WeaponDescriptor_81mm_mortar_Aero_US: ['Ammo_Mortier_M252_81mm']
+Modifying ammunition: Ammo_Mortier_M252_81mm
+Found the start of Ammo_Mortier_M252_81mm block at line 40575
+  -> Ammo_Mortier_M252_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M252_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M252_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M252_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M252_81mm at line 40620
+========== SET 9 ==========
+Artillery Unit found at line 3424
+Weapon: WeaponDescriptor_81mm_mortar_NG_US
+Ammunitions for WeaponDescriptor_81mm_mortar_NG_US: ['Ammo_Mortier_M29_81mm']
+Modifying ammunition: Ammo_Mortier_M29_81mm
+Found the start of Ammo_Mortier_M29_81mm block at line 40727
+  -> Ammo_Mortier_M29_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M29_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M29_81mm at line 40772
+========== SET 10 ==========
+Artillery Unit found at line 3699
+Weapon: WeaponDescriptor_81mm_mortar_UK
+Ammunitions for WeaponDescriptor_81mm_mortar_UK: ['Ammo_Mortier_81mm_TOWED']
+Modifying ammunition: Ammo_Mortier_81mm_TOWED
+Found the start of Ammo_Mortier_81mm_TOWED block at line 39812
+  -> Ammo_Mortier_81mm_TOWED: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_81mm_TOWED: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_TOWED: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_TOWED: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_81mm_TOWED at line 39857
+========== SET 11 ==========
+Artillery Unit found at line 3963
+Weapon: WeaponDescriptor_81mm_mortar_US
+Ammunitions for WeaponDescriptor_81mm_mortar_US: ['Ammo_Mortier_M252_81mm']
+Modifying ammunition: Ammo_Mortier_M252_81mm
+Found the start of Ammo_Mortier_M252_81mm block at line 40575
+  -> Ammo_Mortier_M252_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M252_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M252_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M252_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M252_81mm at line 40620
+========== SET 12 ==========
+Artillery Unit found at line 9719
+Weapon: WeaponDescriptor_AMX_13_mod56_Mortier_BEL
+Ammunitions for WeaponDescriptor_AMX_13_mod56_Mortier_BEL: ['Ammo_Mortier_M1_81mm']
+Modifying ammunition: Ammo_Mortier_M1_81mm
+Found the start of Ammo_Mortier_M1_81mm block at line 42622
+  -> Ammo_Mortier_M1_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M1_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M1_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M1_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M1_81mm at line 42667
+========== SET 13 ==========
+Artillery Unit found at line 10255
+Weapon: WeaponDescriptor_AMX_30_AuF1_FR
+Ammunitions for WeaponDescriptor_AMX_30_AuF1_FR: ['Ammo_Howz_Canon_GCT_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_GCT_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_GCT_Howitzer_155mm block at line 30879
+  -> Ammo_Howz_Canon_GCT_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_GCT_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_GCT_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_GCT_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_GCT_Howitzer_155mm at line 30925
+========== SET 14 ==========
+Artillery Unit found at line 34214
+Weapon: WeaponDescriptor_BM21V_GradV_SOV
+Ammunitions for WeaponDescriptor_BM21V_GradV_SOV: ['Ammo_RocketArt_M21OF_122mm_x12']
+Modifying ammunition: Ammo_RocketArt_M21OF_122mm_x12
+Found the start of Ammo_RocketArt_M21OF_122mm_x12 block at line 49709
+  -> Ammo_RocketArt_M21OF_122mm_x12: RadiusSplashPhysicalDamages modified from 320.0 to 480.0
+  -> Ammo_RocketArt_M21OF_122mm_x12: PhysicalDamages modified from 480.0 to 720.0
+  -> Ammo_RocketArt_M21OF_122mm_x12: RadiusSplashSuppressDamages modified from 398.0 to 597.0
+  -> Ammo_RocketArt_M21OF_122mm_x12: SuppressDamages modified from 597.0 to 895.5
+Completed processing block for Ammo_RocketArt_M21OF_122mm_x12 at line 49754
+========== SET 15 ==========
+Artillery Unit found at line 34734
+Weapon: WeaponDescriptor_BM21_Grad_SOV
+Ammunitions for WeaponDescriptor_BM21_Grad_SOV: ['Ammo_RocketArt_M21OF_122mm']
+Modifying ammunition: Ammo_RocketArt_M21OF_122mm
+Found the start of Ammo_RocketArt_M21OF_122mm block at line 49473
+  -> Ammo_RocketArt_M21OF_122mm: RadiusSplashPhysicalDamages modified from 320.0 to 480.0
+  -> Ammo_RocketArt_M21OF_122mm: PhysicalDamages modified from 480.0 to 720.0
+  -> Ammo_RocketArt_M21OF_122mm: RadiusSplashSuppressDamages modified from 398.0 to 597.0
+  -> Ammo_RocketArt_M21OF_122mm: SuppressDamages modified from 597.0 to 895.5
+Completed processing block for Ammo_RocketArt_M21OF_122mm at line 49518
+========== SET 16 ==========
+Artillery Unit found at line 35256
+Weapon: WeaponDescriptor_BM27_Uragan_SOV
+Ammunitions for WeaponDescriptor_BM27_Uragan_SOV: ['Ammo_RocketArt_9M27F_HE_220mm']
+Modifying ammunition: Ammo_RocketArt_9M27F_HE_220mm
+Found the start of Ammo_RocketArt_9M27F_HE_220mm block at line 48928
+  -> Ammo_RocketArt_9M27F_HE_220mm: RadiusSplashPhysicalDamages modified from 462.0 to 693.0
+  -> Ammo_RocketArt_9M27F_HE_220mm: PhysicalDamages modified from 693.0 to 1039.5
+  -> Ammo_RocketArt_9M27F_HE_220mm: RadiusSplashSuppressDamages modified from 543.0 to 814.5
+  -> Ammo_RocketArt_9M27F_HE_220mm: SuppressDamages modified from 814.5 to 1221.75
+Completed processing block for Ammo_RocketArt_9M27F_HE_220mm at line 48973
+========== SET 17 ==========
+Artillery Unit found at line 35516
+Weapon: WeaponDescriptor_BM30_Smerch_SOV
+Ammunitions for WeaponDescriptor_BM30_Smerch_SOV: ['Ammo_RocketArt_9M55K5_300mm']
+Modifying ammunition: Ammo_RocketArt_9M55K5_300mm
+Found the start of Ammo_RocketArt_9M55K5_300mm block at line 49160
+  -> Ammo_RocketArt_9M55K5_300mm: RadiusSplashPhysicalDamages modified from 471.0 to 706.5
+  -> Ammo_RocketArt_9M55K5_300mm: PhysicalDamages modified from 706.5 to 1059.75
+  -> Ammo_RocketArt_9M55K5_300mm: RadiusSplashSuppressDamages modified from 495.0 to 742.5
+  -> Ammo_RocketArt_9M55K5_300mm: SuppressDamages modified from 742.5 to 1113.75
+Completed processing block for Ammo_RocketArt_9M55K5_300mm at line 49207
+========== SET 18 ==========
+Artillery Unit found at line 78707
+Weapon: WeaponDescriptor_FH70_155mm_UK
+Ammunitions for WeaponDescriptor_FH70_155mm_UK: ['Ammo_Howz_Canon_FH70_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_FH70_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_FH70_Howitzer_155mm block at line 30571
+  -> Ammo_Howz_Canon_FH70_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_FH70_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_FH70_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_FH70_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_FH70_Howitzer_155mm at line 30617
+========== SET 19 ==========
+Artillery Unit found at line 84098
+Weapon: WeaponDescriptor_FV432_Mortar_UK
+Ammunitions for WeaponDescriptor_FV432_Mortar_UK: ['Ammo_Mortier_L16_82mm']
+Modifying ammunition: Ammo_Mortier_L16_82mm
+Found the start of Ammo_Mortier_L16_82mm block at line 40040
+  -> Ammo_Mortier_L16_82mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_L16_82mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_L16_82mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_L16_82mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_L16_82mm at line 40085
+========== SET 20 ==========
+Artillery Unit found at line 85175
+Weapon: WeaponDescriptor_FV433_Abbot_UK
+Ammunitions for WeaponDescriptor_FV433_Abbot_UK: ['Ammo_Howz_Canon_L13A1_Howitzer_105mm']
+Modifying ammunition: Ammo_Howz_Canon_L13A1_Howitzer_105mm
+Found the start of Ammo_Howz_Canon_L13A1_Howitzer_105mm block at line 31186
+  -> Ammo_Howz_Canon_L13A1_Howitzer_105mm: RadiusSplashPhysicalDamages modified from 160.0 to 240.0
+  -> Ammo_Howz_Canon_L13A1_Howitzer_105mm: PhysicalDamages modified from 240.0 to 360.0
+  -> Ammo_Howz_Canon_L13A1_Howitzer_105mm: RadiusSplashSuppressDamages modified from 246.0 to 369.0
+  -> Ammo_Howz_Canon_L13A1_Howitzer_105mm: SuppressDamages modified from 369.0 to 553.5
+Completed processing block for Ammo_Howz_Canon_L13A1_Howitzer_105mm at line 31232
+========== SET 21 ==========
+Artillery Unit found at line 110591
+Weapon: WeaponDescriptor_Howz_2A36_Giatsint_B_SOV
+Ammunitions for WeaponDescriptor_Howz_2A36_Giatsint_B_SOV: ['Ammo_Howz_Canon_2A36_towed_152mm']
+Modifying ammunition: Ammo_Howz_Canon_2A36_towed_152mm
+Found the start of Ammo_Howz_Canon_2A36_towed_152mm block at line 27806
+  -> Ammo_Howz_Canon_2A36_towed_152mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_2A36_towed_152mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_2A36_towed_152mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_2A36_towed_152mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_2A36_towed_152mm at line 27852
+========== SET 22 ==========
+Artillery Unit found at line 111124
+Weapon: WeaponDescriptor_Howz_D20_152mm_SOV
+Ammunitions for WeaponDescriptor_Howz_D20_152mm_SOV: ['Ammo_Howz_Canon_D20_Howitzer_152mm']
+Modifying ammunition: Ammo_Howz_Canon_D20_Howitzer_152mm
+Found the start of Ammo_Howz_Canon_D20_Howitzer_152mm block at line 29420
+  -> Ammo_Howz_Canon_D20_Howitzer_152mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_D20_Howitzer_152mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_D20_Howitzer_152mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_D20_Howitzer_152mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_D20_Howitzer_152mm at line 29466
+========== SET 23 ==========
+Artillery Unit found at line 111659
+Weapon: WeaponDescriptor_Howz_D30_122mm_SOV
+Ammunitions for WeaponDescriptor_Howz_D30_122mm_SOV: ['Ammo_Howz_Canon_D30_Howitzer_122mm']
+Modifying ammunition: Ammo_Howz_Canon_D30_Howitzer_122mm
+Found the start of Ammo_Howz_Canon_D30_Howitzer_122mm block at line 30188
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_D30_Howitzer_122mm at line 30234
+========== SET 24 ==========
+Artillery Unit found at line 111927
+Weapon: WeaponDescriptor_Howz_D30_122mm_VDV_SOV
+Ammunitions for WeaponDescriptor_Howz_D30_122mm_VDV_SOV: ['Ammo_Howz_Canon_D30_Howitzer_122mm']
+Modifying ammunition: Ammo_Howz_Canon_D30_Howitzer_122mm
+Found the start of Ammo_Howz_Canon_D30_Howitzer_122mm block at line 30188
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_D30_Howitzer_122mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_D30_Howitzer_122mm at line 30234
+========== SET 25 ==========
+Artillery Unit found at line 112196
+Weapon: WeaponDescriptor_Howz_L118_105mm_UK
+Ammunitions for WeaponDescriptor_Howz_L118_105mm_UK: ['Ammo_Howz_Canon_M118_Howitzer_105mm']
+Modifying ammunition: Ammo_Howz_Canon_M118_Howitzer_105mm
+Found the start of Ammo_Howz_Canon_M118_Howitzer_105mm block at line 32645
+  -> Ammo_Howz_Canon_M118_Howitzer_105mm: RadiusSplashPhysicalDamages modified from 160.0 to 240.0
+  -> Ammo_Howz_Canon_M118_Howitzer_105mm: PhysicalDamages modified from 240.0 to 360.0
+  -> Ammo_Howz_Canon_M118_Howitzer_105mm: RadiusSplashSuppressDamages modified from 246.0 to 369.0
+  -> Ammo_Howz_Canon_M118_Howitzer_105mm: SuppressDamages modified from 369.0 to 553.5
+Completed processing block for Ammo_Howz_Canon_M118_Howitzer_105mm at line 32691
+========== SET 26 ==========
+Artillery Unit found at line 112464
+Weapon: WeaponDescriptor_Howz_M101_105mm_FR
+Ammunitions for WeaponDescriptor_Howz_M101_105mm_FR: ['Ammo_Howz_Canon_M101_Howitzer_105mm']
+Modifying ammunition: Ammo_Howz_Canon_M101_Howitzer_105mm
+Found the start of Ammo_Howz_Canon_M101_Howitzer_105mm block at line 31263
+  -> Ammo_Howz_Canon_M101_Howitzer_105mm: RadiusSplashPhysicalDamages modified from 160.0 to 240.0
+  -> Ammo_Howz_Canon_M101_Howitzer_105mm: PhysicalDamages modified from 240.0 to 360.0
+  -> Ammo_Howz_Canon_M101_Howitzer_105mm: RadiusSplashSuppressDamages modified from 246.0 to 369.0
+  -> Ammo_Howz_Canon_M101_Howitzer_105mm: SuppressDamages modified from 369.0 to 553.5
+Completed processing block for Ammo_Howz_Canon_M101_Howitzer_105mm at line 31309
+========== SET 27 ==========
+Artillery Unit found at line 112994
+Weapon: WeaponDescriptor_Howz_M102_105mm_US
+Ammunitions for WeaponDescriptor_Howz_M102_105mm_US: ['Ammo_Howz_Canon_M102_Howitzer_105mm']
+Modifying ammunition: Ammo_Howz_Canon_M102_Howitzer_105mm
+Found the start of Ammo_Howz_Canon_M102_Howitzer_105mm block at line 31417
+  -> Ammo_Howz_Canon_M102_Howitzer_105mm: RadiusSplashPhysicalDamages modified from 160.0 to 240.0
+  -> Ammo_Howz_Canon_M102_Howitzer_105mm: PhysicalDamages modified from 240.0 to 360.0
+  -> Ammo_Howz_Canon_M102_Howitzer_105mm: RadiusSplashSuppressDamages modified from 246.0 to 369.0
+  -> Ammo_Howz_Canon_M102_Howitzer_105mm: SuppressDamages modified from 369.0 to 553.5
+Completed processing block for Ammo_Howz_Canon_M102_Howitzer_105mm at line 31463
+========== SET 28 ==========
+Artillery Unit found at line 113262
+Weapon: WeaponDescriptor_Howz_M198_155mm_US
+Ammunitions for WeaponDescriptor_Howz_M198_155mm_US: ['Ammo_Howz_Canon_M198_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_M198_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_M198_Howitzer_155mm block at line 32953
+  -> Ammo_Howz_Canon_M198_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_M198_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_M198_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_M198_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_M198_Howitzer_155mm at line 32999
+========== SET 29 ==========
+Artillery Unit found at line 114063
+Weapon: WeaponDescriptor_Howz_MstaB_150mm_SOV
+Ammunitions for WeaponDescriptor_Howz_MstaB_150mm_SOV: ['Ammo_Howz_Canon_2A65_towed_152mm']
+Modifying ammunition: Ammo_Howz_Canon_2A65_towed_152mm
+Found the start of Ammo_Howz_Canon_2A65_towed_152mm block at line 28882
+  -> Ammo_Howz_Canon_2A65_towed_152mm: RadiusSplashPhysicalDamages modified from 228.0 to 342.0
+  -> Ammo_Howz_Canon_2A65_towed_152mm: PhysicalDamages modified from 342.0 to 513.0
+  -> Ammo_Howz_Canon_2A65_towed_152mm: RadiusSplashSuppressDamages modified from 350.0 to 525.0
+  -> Ammo_Howz_Canon_2A65_towed_152mm: SuppressDamages modified from 525.0 to 787.5
+Completed processing block for Ammo_Howz_Canon_2A65_towed_152mm at line 28928
+========== SET 30 ==========
+Artillery Unit found at line 135981
+Weapon: WeaponDescriptor_M106A2_HOWZ_US
+Ammunitions for WeaponDescriptor_M106A2_HOWZ_US: ['Ammo_Mortier_M40_107mm']
+Modifying ammunition: Ammo_Mortier_M40_107mm
+Found the start of Ammo_Mortier_M40_107mm block at line 40879
+  -> Ammo_Mortier_M40_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_107mm at line 40924
+========== SET 31 ==========
+Artillery Unit found at line 136241
+Weapon: WeaponDescriptor_M106A2_Howz_NG_US
+Ammunitions for WeaponDescriptor_M106A2_Howz_NG_US: ['Ammo_Mortier_M40_107mm']
+Modifying ammunition: Ammo_Mortier_M40_107mm
+Found the start of Ammo_Mortier_M40_107mm block at line 40879
+  -> Ammo_Mortier_M40_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_107mm at line 40924
+========== SET 32 ==========
+Artillery Unit found at line 136513
+Weapon: WeaponDescriptor_M107A2_175mm_UK
+Ammunitions for WeaponDescriptor_M107A2_175mm_UK: ['Ammo_Howz_Canon_M113A1_Howitzer_175mm_late']
+Modifying ammunition: Ammo_Howz_Canon_M113A1_Howitzer_175mm_late
+Found the start of Ammo_Howz_Canon_M113A1_Howitzer_175mm_late block at line 31801
+  -> Ammo_Howz_Canon_M113A1_Howitzer_175mm_late: RadiusSplashPhysicalDamages modified from 248.0 to 372.0
+  -> Ammo_Howz_Canon_M113A1_Howitzer_175mm_late: PhysicalDamages modified from 372.0 to 558.0
+  -> Ammo_Howz_Canon_M113A1_Howitzer_175mm_late: RadiusSplashSuppressDamages modified from 379.0 to 568.5
+  -> Ammo_Howz_Canon_M113A1_Howitzer_175mm_late: SuppressDamages modified from 568.5 to 852.75
+Completed processing block for Ammo_Howz_Canon_M113A1_Howitzer_175mm_late at line 31847
+========== SET 33 ==========
+Artillery Unit found at line 136775
+Weapon: WeaponDescriptor_M109A2_BEL
+Ammunitions for WeaponDescriptor_M109A2_BEL: ['Ammo_Howz_Canon_M185_L39_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_M185_L39_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_M185_L39_Howitzer_155mm block at line 32799
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_M185_L39_Howitzer_155mm at line 32845
+========== SET 34 ==========
+Artillery Unit found at line 137036
+Weapon: WeaponDescriptor_M109A2_HOWZ_US
+Ammunitions for WeaponDescriptor_M109A2_HOWZ_US: ['Ammo_Howz_Canon_M185_L39_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_M185_L39_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_M185_L39_Howitzer_155mm block at line 32799
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_M185_L39_Howitzer_155mm at line 32845
+========== SET 35 ==========
+Artillery Unit found at line 137297
+Weapon: WeaponDescriptor_M109A2_NG_US
+Ammunitions for WeaponDescriptor_M109A2_NG_US: ['Ammo_Howz_Canon_M185_L39_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_M185_L39_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_M185_L39_Howitzer_155mm block at line 32799
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_M185_L39_Howitzer_155mm at line 32845
+========== SET 36 ==========
+Artillery Unit found at line 137569
+Weapon: WeaponDescriptor_M109A2_UK
+Ammunitions for WeaponDescriptor_M109A2_UK: ['Ammo_Howz_Canon_M185_L39_Howitzer_155mm']
+Modifying ammunition: Ammo_Howz_Canon_M185_L39_Howitzer_155mm
+Found the start of Ammo_Howz_Canon_M185_L39_Howitzer_155mm block at line 32799
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashPhysicalDamages modified from 232.0 to 348.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: PhysicalDamages modified from 348.0 to 522.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: RadiusSplashSuppressDamages modified from 356.0 to 534.0
+  -> Ammo_Howz_Canon_M185_L39_Howitzer_155mm: SuppressDamages modified from 534.0 to 801.0
+Completed processing block for Ammo_Howz_Canon_M185_L39_Howitzer_155mm at line 32845
+========== SET 37 ==========
+Artillery Unit found at line 138093
+Weapon: WeaponDescriptor_M110A2_HOWZ_BEL
+Ammunitions for WeaponDescriptor_M110A2_HOWZ_BEL: ['Ammo_Howz_Canon_M201A1_Howitzer_203mm_late']
+Modifying ammunition: Ammo_Howz_Canon_M201A1_Howitzer_203mm_late
+Found the start of Ammo_Howz_Canon_M201A1_Howitzer_203mm_late block at line 33261
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashPhysicalDamages modified from 304.0 to 456.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: PhysicalDamages modified from 456.0 to 684.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashSuppressDamages modified from 467.0 to 700.5
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: SuppressDamages modified from 700.5 to 1050.75
+Completed processing block for Ammo_Howz_Canon_M201A1_Howitzer_203mm_late at line 33307
+========== SET 38 ==========
+Artillery Unit found at line 138354
+Weapon: WeaponDescriptor_M110A2_HOWZ_US
+Ammunitions for WeaponDescriptor_M110A2_HOWZ_US: ['Ammo_Howz_Canon_M201A1_Howitzer_203mm_late']
+Modifying ammunition: Ammo_Howz_Canon_M201A1_Howitzer_203mm_late
+Found the start of Ammo_Howz_Canon_M201A1_Howitzer_203mm_late block at line 33261
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashPhysicalDamages modified from 304.0 to 456.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: PhysicalDamages modified from 456.0 to 684.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashSuppressDamages modified from 467.0 to 700.5
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: SuppressDamages modified from 700.5 to 1050.75
+Completed processing block for Ammo_Howz_Canon_M201A1_Howitzer_203mm_late at line 33307
+========== SET 39 ==========
+Artillery Unit found at line 138615
+Weapon: WeaponDescriptor_M110A2_Howz_NG_US
+Ammunitions for WeaponDescriptor_M110A2_Howz_NG_US: ['Ammo_Howz_Canon_M201A1_Howitzer_203mm_late']
+Modifying ammunition: Ammo_Howz_Canon_M201A1_Howitzer_203mm_late
+Found the start of Ammo_Howz_Canon_M201A1_Howitzer_203mm_late block at line 33261
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashPhysicalDamages modified from 304.0 to 456.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: PhysicalDamages modified from 456.0 to 684.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashSuppressDamages modified from 467.0 to 700.5
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: SuppressDamages modified from 700.5 to 1050.75
+Completed processing block for Ammo_Howz_Canon_M201A1_Howitzer_203mm_late at line 33307
+========== SET 40 ==========
+Artillery Unit found at line 139150
+Weapon: WeaponDescriptor_M110A2_Howz_UK
+Ammunitions for WeaponDescriptor_M110A2_Howz_UK: ['Ammo_Howz_Canon_M201A1_Howitzer_203mm_late']
+Modifying ammunition: Ammo_Howz_Canon_M201A1_Howitzer_203mm_late
+Found the start of Ammo_Howz_Canon_M201A1_Howitzer_203mm_late block at line 33261
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashPhysicalDamages modified from 304.0 to 456.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: PhysicalDamages modified from 456.0 to 684.0
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: RadiusSplashSuppressDamages modified from 467.0 to 700.5
+  -> Ammo_Howz_Canon_M201A1_Howitzer_203mm_late: SuppressDamages modified from 700.5 to 1050.75
+Completed processing block for Ammo_Howz_Canon_M201A1_Howitzer_203mm_late at line 33307
+========== SET 41 ==========
+Artillery Unit found at line 144096
+Weapon: WeaponDescriptor_M125_HOWZ_NG_US
+Ammunitions for WeaponDescriptor_M125_HOWZ_NG_US: ['Ammo_Mortier_M29_81mm']
+Modifying ammunition: Ammo_Mortier_M29_81mm
+Found the start of Ammo_Mortier_M29_81mm block at line 40727
+  -> Ammo_Mortier_M29_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M29_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M29_81mm at line 40772
+========== SET 42 ==========
+Artillery Unit found at line 144367
+Weapon: WeaponDescriptor_M125_HOWZ_US
+Ammunitions for WeaponDescriptor_M125_HOWZ_US: ['Ammo_Mortier_M29_81mm']
+Modifying ammunition: Ammo_Mortier_M29_81mm
+Found the start of Ammo_Mortier_M29_81mm block at line 40727
+  -> Ammo_Mortier_M29_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_M29_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_M29_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_M29_81mm at line 40772
+========== SET 43 ==========
+Artillery Unit found at line 149471
+Weapon: WeaponDescriptor_M270_MLRS_US
+Ammunitions for WeaponDescriptor_M270_MLRS_US: ['Ammo_RocketArt_M26_227mm']
+Modifying ammunition: Ammo_RocketArt_M26_227mm
+Found the start of Ammo_RocketArt_M26_227mm block at line 49863
+  -> Ammo_RocketArt_M26_227mm: RadiusSplashPhysicalDamages modified from 477.0 to 715.5
+  -> Ammo_RocketArt_M26_227mm: PhysicalDamages modified from 715.5 to 1073.25
+  -> Ammo_RocketArt_M26_227mm: RadiusSplashSuppressDamages modified from 560.0 to 840.0
+  -> Ammo_RocketArt_M26_227mm: SuppressDamages modified from 840.0 to 1260.0
+Completed processing block for Ammo_RocketArt_M26_227mm at line 49908
+========== SET 44 ==========
+Artillery Unit found at line 149732
+Weapon: WeaponDescriptor_M270_MLRS_cluster_UK
+Ammunitions for WeaponDescriptor_M270_MLRS_cluster_UK: ['Ammo_RocketArt_M26_227mm_Cluster']
+Modifying ammunition: Ammo_RocketArt_M26_227mm_Cluster
+Found the start of Ammo_RocketArt_M26_227mm_Cluster block at line 49940
+  -> Ammo_RocketArt_M26_227mm_Cluster: RadiusSplashPhysicalDamages modified from 422.0 to 633.0
+  -> Ammo_RocketArt_M26_227mm_Cluster: PhysicalDamages modified from 633.0 to 949.5
+  -> Ammo_RocketArt_M26_227mm_Cluster: RadiusSplashSuppressDamages modified from 424.0 to 636.0
+  -> Ammo_RocketArt_M26_227mm_Cluster: SuppressDamages modified from 636.0 to 954.0
+Completed processing block for Ammo_RocketArt_M26_227mm_Cluster at line 49987
+========== SET 45 ==========
+Artillery Unit found at line 149992
+Weapon: WeaponDescriptor_M270_MLRS_cluster_US
+Ammunitions for WeaponDescriptor_M270_MLRS_cluster_US: ['Ammo_RocketArt_M26_227mm_Cluster']
+Modifying ammunition: Ammo_RocketArt_M26_227mm_Cluster
+Found the start of Ammo_RocketArt_M26_227mm_Cluster block at line 49940
+  -> Ammo_RocketArt_M26_227mm_Cluster: RadiusSplashPhysicalDamages modified from 422.0 to 633.0
+  -> Ammo_RocketArt_M26_227mm_Cluster: PhysicalDamages modified from 633.0 to 949.5
+  -> Ammo_RocketArt_M26_227mm_Cluster: RadiusSplashSuppressDamages modified from 424.0 to 636.0
+  -> Ammo_RocketArt_M26_227mm_Cluster: SuppressDamages modified from 636.0 to 954.0
+Completed processing block for Ammo_RocketArt_M26_227mm_Cluster at line 49987
+========== SET 46 ==========
+Artillery Unit found at line 157384
+Weapon: WeaponDescriptor_M60A1_AVLM_US
+Ammunitions for WeaponDescriptor_M60A1_AVLM_US: ['Ammo_RocketArt_PW_MICLICS']
+Modifying ammunition: Ammo_RocketArt_PW_MICLICS
+Found the start of Ammo_RocketArt_PW_MICLICS block at line 50096
+  -> Ammo_RocketArt_PW_MICLICS: RadiusSplashPhysicalDamages modified from 400.0 to 600.0
+  -> Ammo_RocketArt_PW_MICLICS: PhysicalDamages modified from 600.0 to 900.0
+  -> Ammo_RocketArt_PW_MICLICS: RadiusSplashSuppressDamages modified from 500.0 to 750.0
+  -> Ammo_RocketArt_PW_MICLICS: SuppressDamages modified from 750.0 to 1125.0
+Completed processing block for Ammo_RocketArt_PW_MICLICS at line 50141
+========== SET 47 ==========
+Artillery Unit found at line 173900
+Weapon: WeaponDescriptor_MTLB_Vasilek_SOV
+Ammunitions for WeaponDescriptor_MTLB_Vasilek_SOV: ['Ammo_Mortier_Vasilek_82mm']
+Modifying ammunition: Ammo_Mortier_Vasilek_82mm
+Found the start of Ammo_Mortier_Vasilek_82mm block at line 42320
+  -> Ammo_Mortier_Vasilek_82mm: RadiusSplashPhysicalDamages modified from 139.0 to 208.5
+  -> Ammo_Mortier_Vasilek_82mm: PhysicalDamages modified from 208.5 to 312.75
+  -> Ammo_Mortier_Vasilek_82mm: RadiusSplashSuppressDamages modified from 164.0 to 246.0
+  -> Ammo_Mortier_Vasilek_82mm: SuppressDamages modified from 246.0 to 369.0
+Completed processing block for Ammo_Mortier_Vasilek_82mm at line 42365
+========== SET 48 ==========
+Artillery Unit found at line 177842
+Weapon: WeaponDescriptor_Mortier_107mm_Aero_US
+Ammunitions for WeaponDescriptor_Mortier_107mm_Aero_US: ['Ammo_Mortier_M40_tower_107mm']
+Modifying ammunition: Ammo_Mortier_M40_tower_107mm
+Found the start of Ammo_Mortier_M40_tower_107mm block at line 41105
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_tower_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_tower_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_tower_107mm at line 41150
+========== SET 49 ==========
+Artillery Unit found at line 178107
+Weapon: WeaponDescriptor_Mortier_107mm_Airborne_US
+Ammunitions for WeaponDescriptor_Mortier_107mm_Airborne_US: ['Ammo_Mortier_M40_tower_107mm']
+Modifying ammunition: Ammo_Mortier_M40_tower_107mm
+Found the start of Ammo_Mortier_M40_tower_107mm block at line 41105
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_tower_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_tower_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_tower_107mm at line 41150
+========== SET 50 ==========
+Artillery Unit found at line 178377
+Weapon: WeaponDescriptor_Mortier_107mm_BEL
+Ammunitions for WeaponDescriptor_Mortier_107mm_BEL: ['Ammo_Mortier_M40_tower_107mm']
+Modifying ammunition: Ammo_Mortier_M40_tower_107mm
+Found the start of Ammo_Mortier_M40_tower_107mm block at line 41105
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_tower_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_tower_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_tower_107mm at line 41150
+========== SET 51 ==========
+Artillery Unit found at line 178641
+Weapon: WeaponDescriptor_Mortier_107mm_NG_US
+Ammunitions for WeaponDescriptor_Mortier_107mm_NG_US: ['Ammo_Mortier_M40_tower_107mm']
+Modifying ammunition: Ammo_Mortier_M40_tower_107mm
+Found the start of Ammo_Mortier_M40_tower_107mm block at line 41105
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_tower_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_tower_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_tower_107mm at line 41150
+========== SET 52 ==========
+Artillery Unit found at line 178917
+Weapon: WeaponDescriptor_Mortier_107mm_US
+Ammunitions for WeaponDescriptor_Mortier_107mm_US: ['Ammo_Mortier_M40_tower_107mm']
+Modifying ammunition: Ammo_Mortier_M40_tower_107mm
+Found the start of Ammo_Mortier_M40_tower_107mm block at line 41105
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashPhysicalDamages modified from 193.0 to 289.5
+  -> Ammo_Mortier_M40_tower_107mm: PhysicalDamages modified from 289.5 to 434.25
+  -> Ammo_Mortier_M40_tower_107mm: RadiusSplashSuppressDamages modified from 297.0 to 445.5
+  -> Ammo_Mortier_M40_tower_107mm: SuppressDamages modified from 445.5 to 668.25
+Completed processing block for Ammo_Mortier_M40_tower_107mm at line 41150
+========== SET 53 ==========
+Artillery Unit found at line 179182
+Weapon: WeaponDescriptor_Mortier_240mm_M240_Cluster_SOV
+Ammunitions for WeaponDescriptor_Mortier_240mm_M240_Cluster_SOV: ['Ammo_Mortier_M240_240mm_EXT_Cluster']
+Modifying ammunition: Ammo_Mortier_M240_240mm_EXT_Cluster
+Found the start of Ammo_Mortier_M240_240mm_EXT_Cluster block at line 40344
+  -> Ammo_Mortier_M240_240mm_EXT_Cluster: RadiusSplashPhysicalDamages modified from 446.0 to 669.0
+  -> Ammo_Mortier_M240_240mm_EXT_Cluster: PhysicalDamages modified from 669.0 to 1003.5
+  -> Ammo_Mortier_M240_240mm_EXT_Cluster: RadiusSplashSuppressDamages modified from 449.0 to 673.5
+  -> Ammo_Mortier_M240_240mm_EXT_Cluster: SuppressDamages modified from 673.5 to 1010.25
+Completed processing block for Ammo_Mortier_M240_240mm_EXT_Cluster at line 40391
+========== SET 54 ==========
+Artillery Unit found at line 179447
+Weapon: WeaponDescriptor_Mortier_240mm_M240_SOV
+Ammunitions for WeaponDescriptor_Mortier_240mm_M240_SOV: ['Ammo_Mortier_M240_240mm_EXT']
+Modifying ammunition: Ammo_Mortier_M240_240mm_EXT
+Found the start of Ammo_Mortier_M240_240mm_EXT block at line 40268
+  -> Ammo_Mortier_M240_240mm_EXT: RadiusSplashPhysicalDamages modified from 446.0 to 669.0
+  -> Ammo_Mortier_M240_240mm_EXT: PhysicalDamages modified from 669.0 to 1003.5
+  -> Ammo_Mortier_M240_240mm_EXT: RadiusSplashSuppressDamages modified from 449.0 to 673.5
+  -> Ammo_Mortier_M240_240mm_EXT: SuppressDamages modified from 673.5 to 1010.25
+Completed processing block for Ammo_Mortier_M240_240mm_EXT at line 40313
+========== SET 55 ==========
+Artillery Unit found at line 179712
+Weapon: WeaponDescriptor_Mortier_2B14_82mm_DShV_SOV
+Ammunitions for WeaponDescriptor_Mortier_2B14_82mm_DShV_SOV: ['Ammo_Mortier_2B14_82mm_TOWED']
+Modifying ammunition: Ammo_Mortier_2B14_82mm_TOWED
+Found the start of Ammo_Mortier_2B14_82mm_TOWED block at line 38977
+  -> Ammo_Mortier_2B14_82mm_TOWED: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_2B14_82mm_TOWED: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_2B14_82mm_TOWED: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_2B14_82mm_TOWED: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_2B14_82mm_TOWED at line 39022
+========== SET 56 ==========
+Artillery Unit found at line 179987
+Weapon: WeaponDescriptor_Mortier_2B14_82mm_SOV
+Ammunitions for WeaponDescriptor_Mortier_2B14_82mm_SOV: ['Ammo_Mortier_2B14_82mm_TOWED']
+Modifying ammunition: Ammo_Mortier_2B14_82mm_TOWED
+Found the start of Ammo_Mortier_2B14_82mm_TOWED block at line 38977
+  -> Ammo_Mortier_2B14_82mm_TOWED: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_2B14_82mm_TOWED: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_2B14_82mm_TOWED: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_2B14_82mm_TOWED: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_2B14_82mm_TOWED at line 39022
+========== SET 57 ==========
+Artillery Unit found at line 180262
+Weapon: WeaponDescriptor_Mortier_2B9_Vasilek_SOV
+Ammunitions for WeaponDescriptor_Mortier_2B9_Vasilek_SOV: ['Ammo_Mortier_Vasilek_82mm_towed']
+Modifying ammunition: Ammo_Mortier_Vasilek_82mm_towed
+Found the start of Ammo_Mortier_Vasilek_82mm_towed block at line 42395
+  -> Ammo_Mortier_Vasilek_82mm_towed: RadiusSplashPhysicalDamages modified from 139.0 to 208.5
+  -> Ammo_Mortier_Vasilek_82mm_towed: PhysicalDamages modified from 208.5 to 312.75
+  -> Ammo_Mortier_Vasilek_82mm_towed: RadiusSplashSuppressDamages modified from 164.0 to 246.0
+  -> Ammo_Mortier_Vasilek_82mm_towed: SuppressDamages modified from 246.0 to 369.0
+Completed processing block for Ammo_Mortier_Vasilek_82mm_towed at line 42440
+========== SET 58 ==========
+Artillery Unit found at line 180531
+Weapon: WeaponDescriptor_Mortier_2B9_Vasilek_nonPara_SOV
+Ammunitions for WeaponDescriptor_Mortier_2B9_Vasilek_nonPara_SOV: ['Ammo_Mortier_Vasilek_82mm_towed']
+Modifying ammunition: Ammo_Mortier_Vasilek_82mm_towed
+Found the start of Ammo_Mortier_Vasilek_82mm_towed block at line 42395
+  -> Ammo_Mortier_Vasilek_82mm_towed: RadiusSplashPhysicalDamages modified from 139.0 to 208.5
+  -> Ammo_Mortier_Vasilek_82mm_towed: PhysicalDamages modified from 208.5 to 312.75
+  -> Ammo_Mortier_Vasilek_82mm_towed: RadiusSplashSuppressDamages modified from 164.0 to 246.0
+  -> Ammo_Mortier_Vasilek_82mm_towed: SuppressDamages modified from 246.0 to 369.0
+Completed processing block for Ammo_Mortier_Vasilek_82mm_towed at line 42440
+========== SET 59 ==========
+Artillery Unit found at line 180796
+Weapon: WeaponDescriptor_Mortier_2S12_120mm_DShV_SOV
+Ammunitions for WeaponDescriptor_Mortier_2S12_120mm_DShV_SOV: ['Ammo_Mortier_2S12_120mm']
+Modifying ammunition: Ammo_Mortier_2S12_120mm
+Found the start of Ammo_Mortier_2S12_120mm block at line 39053
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_2S12_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_2S12_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_2S12_120mm at line 39098
+========== SET 60 ==========
+Artillery Unit found at line 181061
+Weapon: WeaponDescriptor_Mortier_2S12_120mm_SOV
+Ammunitions for WeaponDescriptor_Mortier_2S12_120mm_SOV: ['Ammo_Mortier_2S12_120mm']
+Modifying ammunition: Ammo_Mortier_2S12_120mm
+Found the start of Ammo_Mortier_2S12_120mm block at line 39053
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_2S12_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_2S12_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_2S12_120mm at line 39098
+========== SET 61 ==========
+Artillery Unit found at line 181326
+Weapon: WeaponDescriptor_Mortier_2S12_120mm_TTsko_SOV
+Ammunitions for WeaponDescriptor_Mortier_2S12_120mm_TTsko_SOV: ['Ammo_Mortier_2S12_120mm']
+Modifying ammunition: Ammo_Mortier_2S12_120mm
+Found the start of Ammo_Mortier_2S12_120mm block at line 39053
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_2S12_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_2S12_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_2S12_120mm at line 39098
+========== SET 62 ==========
+Artillery Unit found at line 181591
+Weapon: WeaponDescriptor_Mortier_2S12_120mm_VDV_SOV
+Ammunitions for WeaponDescriptor_Mortier_2S12_120mm_VDV_SOV: ['Ammo_Mortier_2S12_120mm']
+Modifying ammunition: Ammo_Mortier_2S12_120mm
+Found the start of Ammo_Mortier_2S12_120mm block at line 39053
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_2S12_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_2S12_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_2S12_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_2S12_120mm at line 39098
+========== SET 63 ==========
+Artillery Unit found at line 181861
+Weapon: WeaponDescriptor_Mortier_81mm_BEL
+Ammunitions for WeaponDescriptor_Mortier_81mm_BEL: ['Ammo_Mortier_81mm_TOWED']
+Modifying ammunition: Ammo_Mortier_81mm_TOWED
+Found the start of Ammo_Mortier_81mm_TOWED block at line 39812
+  -> Ammo_Mortier_81mm_TOWED: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_81mm_TOWED: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_TOWED: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_TOWED: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_81mm_TOWED at line 39857
+========== SET 64 ==========
+Artillery Unit found at line 182681
+Weapon: WeaponDescriptor_Mortier_MORT61_120mm_FR
+Ammunitions for WeaponDescriptor_Mortier_MORT61_120mm_FR: ['Ammo_Mortier_RT61_120mm']
+Modifying ammunition: Ammo_Mortier_RT61_120mm
+Found the start of Ammo_Mortier_RT61_120mm block at line 41712
+  -> Ammo_Mortier_RT61_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_RT61_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_RT61_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_RT61_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_RT61_120mm at line 41757
+========== SET 65 ==========
+Artillery Unit found at line 182945
+Weapon: WeaponDescriptor_Mortier_MORT61_120mm_para_FR
+Ammunitions for WeaponDescriptor_Mortier_MORT61_120mm_para_FR: ['Ammo_Mortier_RT61_120mm']
+Modifying ammunition: Ammo_Mortier_RT61_120mm
+Found the start of Ammo_Mortier_RT61_120mm block at line 41712
+  -> Ammo_Mortier_RT61_120mm: RadiusSplashPhysicalDamages modified from 239.0 to 358.5
+  -> Ammo_Mortier_RT61_120mm: PhysicalDamages modified from 358.5 to 537.75
+  -> Ammo_Mortier_RT61_120mm: RadiusSplashSuppressDamages modified from 359.0 to 538.5
+  -> Ammo_Mortier_RT61_120mm: SuppressDamages modified from 538.5 to 807.75
+Completed processing block for Ammo_Mortier_RT61_120mm at line 41757
+========== SET 66 ==========
+Artillery Unit found at line 183215
+Weapon: WeaponDescriptor_Mortier_Nona_K_120mm_SOV
+Ammunitions for WeaponDescriptor_Mortier_Nona_K_120mm_SOV: ['Ammo_Howz_Canon_2B16_NONA_K_120mm']
+Modifying ammunition: Ammo_Howz_Canon_2B16_NONA_K_120mm
+Found the start of Ammo_Howz_Canon_2B16_NONA_K_120mm block at line 29036
+  -> Ammo_Howz_Canon_2B16_NONA_K_120mm: RadiusSplashPhysicalDamages modified from 183.0 to 274.5
+  -> Ammo_Howz_Canon_2B16_NONA_K_120mm: PhysicalDamages modified from 274.5 to 411.75
+  -> Ammo_Howz_Canon_2B16_NONA_K_120mm: RadiusSplashSuppressDamages modified from 281.0 to 421.5
+  -> Ammo_Howz_Canon_2B16_NONA_K_120mm: SuppressDamages modified from 421.5 to 632.25
+Completed processing block for Ammo_Howz_Canon_2B16_NONA_K_120mm at line 29082
+========== SET 67 ==========
+Artillery Unit found at line 215313
+Weapon: WeaponDescriptor_SVO_TCH
+Ammunitions for WeaponDescriptor_SVO_TCH: ['Ammo_RocketArt_PW_LWD']
+Modifying ammunition: Ammo_RocketArt_PW_LWD
+Found the start of Ammo_RocketArt_PW_LWD block at line 50019
+  -> Ammo_RocketArt_PW_LWD: RadiusSplashPhysicalDamages modified from 400.0 to 600.0
+  -> Ammo_RocketArt_PW_LWD: PhysicalDamages modified from 600.0 to 900.0
+  -> Ammo_RocketArt_PW_LWD: RadiusSplashSuppressDamages modified from 500.0 to 750.0
+  -> Ammo_RocketArt_PW_LWD: SuppressDamages modified from 750.0 to 1125.0
+Completed processing block for Ammo_RocketArt_PW_LWD at line 50064
+========== SET 68 ==========
+Artillery Unit found at line 238891
+Weapon: WeaponDescriptor_TOS1_Buratino_SOV
+Ammunitions for WeaponDescriptor_TOS1_Buratino_SOV: ['Ammo_RocketArt_thermobaric_220mm_x30']
+Modifying ammunition: Ammo_RocketArt_thermobaric_220mm_x30
+Found the start of Ammo_RocketArt_thermobaric_220mm_x30 block at line 50328
+  -> Ammo_RocketArt_thermobaric_220mm_x30: RadiusSplashPhysicalDamages modified from 462.0 to 693.0
+  -> Ammo_RocketArt_thermobaric_220mm_x30: PhysicalDamages modified from 693.0 to 1039.5
+  -> Ammo_RocketArt_thermobaric_220mm_x30: RadiusSplashSuppressDamages modified from 693.0 to 1039.5
+  -> Ammo_RocketArt_thermobaric_220mm_x30: SuppressDamages modified from 1039.5 to 1559.25
+Completed processing block for Ammo_RocketArt_thermobaric_220mm_x30 at line 50373
+========== SET 69 ==========
+Artillery Unit found at line 252237
+Weapon: WeaponDescriptor_VAB_Mortar_81_FR
+Ammunitions for WeaponDescriptor_VAB_Mortar_81_FR: ['Ammo_Mortier_81mm']
+Modifying ammunition: Ammo_Mortier_81mm
+Found the start of Ammo_Mortier_81mm block at line 39280
+  -> Ammo_Mortier_81mm: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_81mm: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_81mm at line 39325
+========== SET 70 ==========
+Artillery Unit found at line 256835
+Weapon: WeaponDescriptor_VLRA_Mortier81_FR
+Ammunitions for WeaponDescriptor_VLRA_Mortier81_FR: ['Ammo_Mortier_81mm_61C']
+Modifying ammunition: Ammo_Mortier_81mm_61C
+Found the start of Ammo_Mortier_81mm_61C block at line 39356
+  -> Ammo_Mortier_81mm_61C: RadiusSplashPhysicalDamages modified from 146.0 to 219.0
+  -> Ammo_Mortier_81mm_61C: PhysicalDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_61C: RadiusSplashSuppressDamages modified from 219.0 to 328.5
+  -> Ammo_Mortier_81mm_61C: SuppressDamages modified from 328.5 to 492.75
+Completed processing block for Ammo_Mortier_81mm_61C at line 39401
+========== Processing Complete ==========
