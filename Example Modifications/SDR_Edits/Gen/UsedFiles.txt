@@ -1,0 +1,5 @@
+GameData:/Localisation/SDR_Edits/COMPANIES.csv
+GameData:/Localisation/SDR_Edits/INTERFACE_INGAME.csv
+GameData:/Localisation/SDR_Edits/INTERFACE_OUTGAME.csv
+GameData:/Localisation/SDR_Edits/PLATOONS.csv
+GameData:/Localisation/SDR_Edits/UNITS.csv
